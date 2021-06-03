@@ -1,0 +1,22 @@
+body {
+text-align: center;
+font-size: 25px;  
+}
+
+input {
+    font-size: 20px;
+}
+
+#sort_bttn {
+    display: none;
+}
+
+#display_name_with_coma {
+background-color:green;
+border:2px solid;
+}
+
+#display_name_without_coma {
+    background-color: red;
+    border:2px solid;
+    }
